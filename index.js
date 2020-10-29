@@ -2349,10 +2349,10 @@ var services = function services() {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\MAMP\htdocs\waxom\src\js\hovers.js */"./src/js/hovers.js");
-__webpack_require__(/*! C:\MAMP\htdocs\waxom\src\js\index.js */"./src/js/index.js");
-__webpack_require__(/*! C:\MAMP\htdocs\waxom\src\js\slider.js */"./src/js/slider.js");
-module.exports = __webpack_require__(/*! C:\MAMP\htdocs\waxom\src\js\tabs.js */"./src/js/tabs.js");
+__webpack_require__(/*! D:\FRONTEND\waxom\src\js\hovers.js */"./src/js/hovers.js");
+__webpack_require__(/*! D:\FRONTEND\waxom\src\js\index.js */"./src/js/index.js");
+__webpack_require__(/*! D:\FRONTEND\waxom\src\js\slider.js */"./src/js/slider.js");
+module.exports = __webpack_require__(/*! D:\FRONTEND\waxom\src\js\tabs.js */"./src/js/tabs.js");
 
 
 /***/ })
